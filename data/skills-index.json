@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "generated_by": "Codex via GitHub MCP",
+  "collection_policy": "metadata-first; copy full content only when license permits redistribution",
+  "items": [
+    {
+      "repository": "comeonzhj/Auto-Redbook-Skills",
+      "path": "SKILL.md",
+      "source_url": "https://github.com/comeonzhj/Auto-Redbook-Skills/blob/6f06770f3662624760a0c885bca6230f40c8b7ad/SKILL.md",
+      "detected_name": "xhs-note-creator",
+      "description_fragment": "小红书笔记素材创作技能，包含标题正文、图片卡片、发布等流程。",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "FahrenheitResearch/hermes-weather-plugin",
+      "path": "skill.md",
+      "source_url": "https://github.com/FahrenheitResearch/hermes-weather-plugin/blob/d474493ef4ffeefabad9dbf0188f72bce3b47b67/skill.md",
+      "detected_name": "weather-plugin",
+      "description_fragment": "Guide for using the weather plugin: data queries, radar imagery, model maps, and calculations.",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "autoclaw-cc/xiaohongshu-skills",
+      "path": "SKILL.md",
+      "source_url": "https://github.com/autoclaw-cc/xiaohongshu-skills/blob/b043748282a57e347c52f517dfb59819121134ab/SKILL.md",
+      "detected_name": "xiaohongshu-skills",
+      "description_fragment": "小红书自动化技能集合，支持认证登录、内容发布、搜索发现、社交互动。",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "NagarjunDP/poshevents",
+      "path": "Skill.md",
+      "source_url": "https://github.com/NagarjunDP/poshevents/blob/b22fb7c05d01217238a55829cff0ce96fee48945/Skill.md",
+      "detected_name": "luxury-frontend-design",
+      "description_fragment": "Premium frontend skill for elegant high-end websites with minimal layouts and animations.",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "Geemal2004/Enterprise-Cargo-Monitoring-System",
+      "path": "SKILL.MD",
+      "source_url": "https://github.com/Geemal2004/Enterprise-Cargo-Monitoring-System/blob/0438db753120661d659f388cb1984c99248d3635/SKILL.MD",
+      "detected_name": "smart-cargo-monitor-dual-esp32",
+      "description_fragment": "Enterprise smart cargo monitoring and logistics management system on dual ESP architecture.",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "Trust-000/psychClaw-skill",
+      "path": "skill.md",
+      "source_url": "https://github.com/Trust-000/psychClaw-skill/blob/c8c2058481405ca4b93bb37df8343d89de6d6d10/skill.md",
+      "detected_name": "psychClaw",
+      "description_fragment": "中文陪伴式回应 skill，强调犀利且温暖的支持风格。",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "jinchenma94/bazi-skill",
+      "path": "SKILL.md",
+      "source_url": "https://github.com/jinchenma94/bazi-skill/blob/bdd7f863d4450bf0e2fac84579ad6b45cfdfa25c/SKILL.md",
+      "detected_name": "bazi",
+      "description_fragment": "四柱八字命理分析 skill，收集出生信息并进行命盘分析。",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "alexanderop/workflow",
+      "path": "skill.md",
+      "source_url": "https://github.com/alexanderop/workflow/blob/dc66a6adda6fc4972ccb2ef5cf8a822213e2d34c/skill.md",
+      "detected_name": "workflow",
+      "description_fragment": "Deterministic multi-agent orchestration powered by GitHub Copilot CLI.",
+      "license_status": "unknown"
+    },
+    {
+      "repository": "eze-is/web-access",
+      "path": "SKILL.md",
+      "source_url": "https://github.com/eze-is/web-access/blob/7af34af6a25940d917905f0e5f2a7ef056952971/SKILL.md",
+      "detected_name": "web-access",
+      "description_fragment": "联网操作处理 skill，包括搜索、网页抓取、登录后操作、网络交互等。",
+      "license_status": "MIT declared in skill fragment"
+    }
+  ]
+}
